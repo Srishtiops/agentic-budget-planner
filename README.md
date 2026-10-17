@@ -82,5 +82,4 @@ pytest -v
 ## 📄 Project Documentation
 
 - **Full Project Report (Word Document):** [`Agentic_AI_Project_Report.docx`](Agentic_AI_Project_Report.docx)
-- **HTML Web Preview:** [`Agentic_AI_Project_Report.html`](Agentic_AI_Project_Report.html)
 - **Evaluation Dataset Details:** [`sample_data/DATASETS.md`](sample_data/DATASETS.md)
